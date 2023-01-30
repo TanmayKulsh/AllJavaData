@@ -1,0 +1,13 @@
+package practice;
+
+public class yolo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String op = "hello bois";
+		
+		
+	}
+
+}

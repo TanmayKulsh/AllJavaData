@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;enum2.color&apos; to &apos;Color&apos;&#x0D;&#x0A;- Original project: &apos;Day6&apos;&#x0D;&#x0A;- Original element: &apos;enum2.color&apos;&#x0D;&#x0A;- Renamed element: &apos;enum2.Color&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;color&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;enum2{color.java[color" matchStrategy="1" name="Color" qualified="false" references="true" similarDeclarations="false" stamp="1666593696802" textual="false" version="1.0"/>
+</session>

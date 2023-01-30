@@ -1,0 +1,36 @@
+delimiter $$
+create procedure UpdateBook(in bkid int,in ptitle varchar(30),in pauthor varchar(30),in pprice double)
+begin 
+update books 
+set title = ptitle
+where bookid = bkid;
+update books 
+set author = pauthor
+where bookid = bkid;
+update books 
+set price = pprice
+where bookid = bkid;
+end$$
+delimiter ;
+
+
+
+delimiter $$
+create procedure UpdateBook(in bkid int,in ptitle varchar(30),in pauthor varchar(30),in pprice double)
+begin 
+update books 
+set title = ptitle,
+
+
+set author = pauthor,
+
+ 
+set price = pprice
+where bookid = bkid;
+end$$
+delimiter ;
+
+	
+				break;
+
+	

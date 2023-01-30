@@ -1,0 +1,10 @@
+package testLambda;
+
+public class test1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		List<Interger> list = new ArrayList.asList(1,2,3,5,)
+	}
+}

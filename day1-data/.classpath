@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="day1_help/ready code"/>
+	<classpathentry kind="src" path="eclipse-projects/day1.1/src"/>
+	<classpathentry kind="output" path="eclipse-projects/day1.1/bin"/>
+</classpath>

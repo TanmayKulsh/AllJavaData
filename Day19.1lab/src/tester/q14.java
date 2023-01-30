@@ -1,0 +1,30 @@
+package tester;
+
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.function.Predicate;
+
+public class q14 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		List<Integer> list = new ArrayList<>();
+
+		list.add(87);
+		list.add(835);
+		list.add(45);
+		list.add(454);
+		list.add(787);
+		list.add(335);
+		list.add(545);
+		list.add(646);
+		list.add(89);		
+		list.forEach(p -> System.out.print(p +"  "));
+	}
+	//Predicate<Integer> pre = (p) -> (p%2==0);
+	list.remov3    (p -> p%2 ==0);
+	
+	
+}
